@@ -1,0 +1,435 @@
+date_hour,publisher_token,country_tier,placement_id,campaign_name,as_type,ad_id,ad_set_id,bid_requests,bids,total_bid_amount,impressions,views,clicks
+2025-04-28 17:00:00.000,deepai-yjdgkyt51l,US,128,Read or Not,read-or-not,67512,67503,3281,3281,5402.684714,2608,2532,27
+2025-04-28 17:00:00.000,pixelchat-qkanbvwd4e,US,120,Read or Not,read-or-not,67512,67503,16,16,31.544718,14,13,0
+2025-04-28 18:00:00.000,deepai-yjdgkyt51l,US,128,Read or Not,read-or-not,67512,67503,3022,3022,4933.980809,2339,2257,23
+2025-04-28 18:00:00.000,pixelchat-qkanbvwd4e,Tier 1,120,Read or Not,read-or-not,67512,67503,2,2,4.492068,2,2,0
+2025-04-28 18:00:00.000,pixelchat-qkanbvwd4e,US,120,Read or Not,read-or-not,67512,67503,12,12,25.019557,9,9,0
+2025-04-28 19:00:00.000,deepai-yjdgkyt51l,US,128,Read or Not,read-or-not,67512,67503,2490,2490,4045.802075,1960,1886,25
+2025-04-28 19:00:00.000,pixelchat-qkanbvwd4e,Tier 1,120,Read or Not,read-or-not,67512,67503,1,1,1.21682,1,1,0
+2025-04-28 19:00:00.000,pixelchat-qkanbvwd4e,US,120,Read or Not,read-or-not,67512,67503,9,9,16.67544,9,7,0
+2025-04-28 20:00:00.000,deepai-yjdgkyt51l,US,128,Read or Not,read-or-not,67512,67503,2053,2053,3353.405366,1621,1583,15
+2025-04-28 20:00:00.000,pixelchat-qkanbvwd4e,Tier 1,120,Read or Not,read-or-not,67512,67503,2,2,3.734024,2,2,0
+2025-04-28 20:00:00.000,pixelchat-qkanbvwd4e,US,120,Read or Not,read-or-not,67512,67503,15,15,28.289796,14,12,0
+2025-04-28 21:00:00.000,deepai-yjdgkyt51l,US,128,Read or Not,read-or-not,67512,67503,1931,1931,3148.802576,1573,1529,17
+2025-04-28 21:00:00.000,pixelchat-qkanbvwd4e,Tier 1,120,Read or Not,read-or-not,67512,67503,2,2,2.947328,2,2,0
+2025-04-28 21:00:00.000,pixelchat-qkanbvwd4e,US,120,Read or Not,read-or-not,67512,67503,18,18,33.20188,15,15,0
+2025-04-28 22:00:00.000,deepai-yjdgkyt51l,US,128,Read or Not,read-or-not,67512,67503,1868,1868,3046.891725,1523,1488,15
+2025-04-28 22:00:00.000,pixelchat-qkanbvwd4e,Tier 1,120,Read or Not,read-or-not,67512,67503,4,4,7.98566,2,2,0
+2025-04-28 22:00:00.000,pixelchat-qkanbvwd4e,US,120,Read or Not,read-or-not,67512,67503,23,23,47.325552,19,19,0
+2025-04-28 23:00:00.000,deepai-yjdgkyt51l,US,128,Read or Not,read-or-not,67512,67503,2009,2009,3246.794499,1623,1590,24
+2025-04-28 23:00:00.000,pixelchat-qkanbvwd4e,Tier 1,120,Read or Not,read-or-not,67512,67503,11,11,21.797579,7,7,0
+2025-04-28 23:00:00.000,pixelchat-qkanbvwd4e,US,120,Read or Not,read-or-not,67512,67503,9,9,18.896105,9,9,0
+2025-04-29 00:00:00.000,deepai-yjdgkyt51l,US,128,Read or Not,read-or-not,67512,67503,1900,1900,3061.803461,1523,1491,16
+2025-04-29 00:00:00.000,pixelchat-qkanbvwd4e,Tier 1,120,Read or Not,read-or-not,67512,67503,7,7,13.775367,6,6,0
+2025-04-29 00:00:00.000,pixelchat-qkanbvwd4e,US,120,Read or Not,read-or-not,67512,67503,12,12,20.778091,11,11,0
+2025-04-29 01:00:00.000,deepai-yjdgkyt51l,US,128,Read or Not,read-or-not,67512,67503,1977,1977,3215.507005,1603,1574,15
+2025-04-29 01:00:00.000,pixelchat-qkanbvwd4e,Tier 1,120,Read or Not,read-or-not,67512,67503,2,2,3.552904,2,2,0
+2025-04-29 01:00:00.000,pixelchat-qkanbvwd4e,US,120,Read or Not,read-or-not,67512,67503,10,10,20.21893,7,7,0
+2025-04-29 02:00:00.000,deepai-yjdgkyt51l,US,128,Read or Not,read-or-not,67512,67503,1957,1957,3163.982198,1561,1531,17
+2025-04-29 02:00:00.000,pixelchat-qkanbvwd4e,Tier 1,120,Read or Not,read-or-not,67512,67503,2,2,3.387739,2,2,0
+2025-04-29 02:00:00.000,pixelchat-qkanbvwd4e,US,120,Read or Not,read-or-not,67512,67503,17,17,30.021327,12,12,0
+2025-04-29 03:00:00.000,deepai-yjdgkyt51l,US,128,Read or Not,read-or-not,67512,67503,1657,1657,2678.260417,1337,1297,19
+2025-04-29 03:00:00.000,pixelchat-qkanbvwd4e,Tier 1,120,Read or Not,read-or-not,67512,67503,6,6,10.298929,4,4,0
+2025-04-29 03:00:00.000,pixelchat-qkanbvwd4e,US,120,Read or Not,read-or-not,67512,67503,17,17,33.852533,15,15,1
+2025-04-29 04:00:00.000,deepai-yjdgkyt51l,US,128,Read or Not,read-or-not,67512,67503,1484,1484,2427.269582,1183,1158,18
+2025-04-29 04:00:00.000,pixelchat-qkanbvwd4e,Tier 1,120,Read or Not,read-or-not,67512,67503,7,7,14.796193,7,7,0
+2025-04-29 04:00:00.000,pixelchat-qkanbvwd4e,US,120,Read or Not,read-or-not,67512,67503,16,16,28.163451,16,16,0
+2025-04-29 05:00:00.000,deepai-yjdgkyt51l,US,128,Read or Not,read-or-not,67512,67503,1136,1136,1873.985713,922,894,10
+2025-04-29 05:00:00.000,pixelchat-qkanbvwd4e,Tier 1,120,Read or Not,read-or-not,67512,67503,8,8,14.970897,8,8,0
+2025-04-29 05:00:00.000,pixelchat-qkanbvwd4e,US,120,Read or Not,read-or-not,67512,67503,13,13,25.076094,11,11,0
+2025-04-29 06:00:00.000,deepai-yjdgkyt51l,US,128,Read or Not,read-or-not,67512,67503,1167,1167,1887.084484,909,868,15
+2025-04-29 06:00:00.000,pixelchat-qkanbvwd4e,Tier 1,120,Read or Not,read-or-not,67512,67503,8,8,17.530446,6,6,0
+2025-04-29 06:00:00.000,pixelchat-qkanbvwd4e,US,120,Read or Not,read-or-not,67512,67503,17,17,34.209373,13,13,0
+2025-04-29 07:00:00.000,deepai-yjdgkyt51l,US,128,Read or Not,read-or-not,67512,67503,789,789,1315.720048,631,608,11
+2025-04-29 07:00:00.000,pixelchat-qkanbvwd4e,Tier 1,120,Read or Not,read-or-not,67512,67503,13,13,27.375876,11,11,0
+2025-04-29 07:00:00.000,pixelchat-qkanbvwd4e,US,120,Read or Not,read-or-not,67512,67503,15,15,26.220299,14,14,1
+2025-04-29 08:00:00.000,deepai-yjdgkyt51l,US,128,Read or Not,read-or-not,67512,67503,638,638,1067.437766,516,499,6
+2025-04-29 08:00:00.000,pixelchat-qkanbvwd4e,Tier 1,120,Read or Not,read-or-not,67512,67503,5,5,9.268263,4,4,0
+2025-04-29 08:00:00.000,pixelchat-qkanbvwd4e,US,120,Read or Not,read-or-not,67512,67503,10,10,17.564816,10,10,0
+2025-04-29 09:00:00.000,deepai-yjdgkyt51l,US,128,Read or Not,read-or-not,67512,67503,511,511,825.596669,407,394,9
+2025-04-29 09:00:00.000,pixelchat-qkanbvwd4e,Tier 1,120,Read or Not,read-or-not,67512,67503,9,9,17.382446,8,7,0
+2025-04-29 09:00:00.000,pixelchat-qkanbvwd4e,US,120,Read or Not,read-or-not,67512,67503,14,14,24.024987,12,12,0
+2025-04-29 10:00:00.000,deepai-yjdgkyt51l,US,128,Read or Not,read-or-not,67512,67503,507,507,839.618496,401,380,3
+2025-04-29 10:00:00.000,pixelchat-qkanbvwd4e,Tier 1,120,Read or Not,read-or-not,67512,67503,3,3,4.149524,3,3,0
+2025-04-29 10:00:00.000,pixelchat-qkanbvwd4e,US,120,Read or Not,read-or-not,67512,67503,9,9,16.358333,7,7,0
+2025-04-29 17:00:00.000,deepai-yjdgkyt51l,US,128,Read or Not,read-or-not,67512,67503,2770,2770,4521.93568,2181,2122,17
+2025-04-29 17:00:00.000,pixelchat-qkanbvwd4e,Tier 1,120,Read or Not,read-or-not,67512,67503,7,7,13.101585,7,7,0
+2025-04-29 17:00:00.000,pixelchat-qkanbvwd4e,US,120,Read or Not,read-or-not,67512,67503,15,15,28.861032,14,14,0
+2025-04-29 18:00:00.000,deepai-yjdgkyt51l,US,128,Read or Not,read-or-not,67512,67503,2645,2645,4335.24192,2033,1973,15
+2025-04-29 18:00:00.000,pixelchat-qkanbvwd4e,Tier 1,120,Read or Not,read-or-not,67512,67503,7,7,15.639789,7,6,0
+2025-04-29 18:00:00.000,pixelchat-qkanbvwd4e,US,120,Read or Not,read-or-not,67512,67503,10,10,18.797551,10,10,0
+2025-04-29 19:00:00.000,deepai-yjdgkyt51l,US,128,Read or Not,read-or-not,67512,67503,2245,2245,3660.341515,1768,1700,16
+2025-04-29 19:00:00.000,pixelchat-qkanbvwd4e,Tier 1,120,Read or Not,read-or-not,67512,67503,5,5,10.69039,3,3,0
+2025-04-29 19:00:00.000,pixelchat-qkanbvwd4e,US,120,Read or Not,read-or-not,67512,67503,14,14,23.439853,12,12,0
+2025-04-29 20:00:00.000,deepai-yjdgkyt51l,US,128,Read or Not,read-or-not,67512,67503,1882,1882,3108.884126,1511,1462,20
+2025-04-29 20:00:00.000,pixelchat-qkanbvwd4e,Tier 1,120,Read or Not,read-or-not,67512,67503,3,3,4.06673,3,3,0
+2025-04-29 20:00:00.000,pixelchat-qkanbvwd4e,US,120,Read or Not,read-or-not,67512,67503,13,13,24.968978,8,8,0
+2025-04-29 21:00:00.000,deepai-yjdgkyt51l,US,128,Read or Not,read-or-not,67512,67503,1656,1656,2746.776588,1330,1301,18
+2025-04-29 21:00:00.000,pixelchat-qkanbvwd4e,Tier 1,120,Read or Not,read-or-not,67512,67503,5,5,10.471167,3,3,0
+2025-04-29 21:00:00.000,pixelchat-qkanbvwd4e,US,120,Read or Not,read-or-not,67512,67503,20,20,35.47773,18,18,0
+2025-04-29 22:00:00.000,deepai-yjdgkyt51l,US,128,Read or Not,read-or-not,67512,67503,1789,1789,2921.021667,1415,1366,16
+2025-04-29 22:00:00.000,pixelchat-qkanbvwd4e,Tier 1,120,Read or Not,read-or-not,67512,67503,7,7,13.000348,6,5,0
+2025-04-29 22:00:00.000,pixelchat-qkanbvwd4e,US,120,Read or Not,read-or-not,67512,67503,18,18,33.289652,16,16,0
+2025-04-29 23:00:00.000,deepai-yjdgkyt51l,US,128,Read or Not,read-or-not,67512,67503,1880,1880,3051.163992,1519,1478,13
+2025-04-29 23:00:00.000,pixelchat-qkanbvwd4e,Tier 1,120,Read or Not,read-or-not,67512,67503,2,2,4.109928,2,2,0
+2025-04-29 23:00:00.000,pixelchat-qkanbvwd4e,US,120,Read or Not,read-or-not,67512,67503,15,15,26.511119,15,15,0
+2025-04-30 00:00:00.000,deepai-yjdgkyt51l,US,128,Read or Not,read-or-not,67512,67503,1876,1876,3012.431775,1519,1478,19
+2025-04-30 00:00:00.000,pixelchat-qkanbvwd4e,Tier 1,120,Read or Not,read-or-not,67512,67503,5,5,9.566511,5,5,0
+2025-04-30 00:00:00.000,pixelchat-qkanbvwd4e,US,120,Read or Not,read-or-not,67512,67503,12,12,20.702943,10,10,0
+2025-04-30 01:00:00.000,deepai-yjdgkyt51l,US,128,Read or Not,read-or-not,67512,67503,1772,1772,2873.720919,1445,1410,16
+2025-04-30 01:00:00.000,pixelchat-qkanbvwd4e,US,120,Read or Not,read-or-not,67512,67503,15,15,26.843809,14,13,0
+2025-04-30 02:00:00.000,deepai-yjdgkyt51l,US,128,Read or Not,read-or-not,67512,67503,1742,1742,2873.048296,1425,1382,16
+2025-04-30 02:00:00.000,pixelchat-qkanbvwd4e,Tier 1,120,Read or Not,read-or-not,67512,67503,2,2,4.783173,2,2,1
+2025-04-30 02:00:00.000,pixelchat-qkanbvwd4e,US,120,Read or Not,read-or-not,67512,67503,13,13,27.417984,12,12,0
+2025-04-30 03:00:00.000,deepai-yjdgkyt51l,US,128,Read or Not,read-or-not,67512,67503,1589,1589,2564.183856,1291,1259,19
+2025-04-30 03:00:00.000,pixelchat-qkanbvwd4e,Tier 1,120,Read or Not,read-or-not,67512,67503,3,3,5.442436,2,1,0
+2025-04-30 03:00:00.000,pixelchat-qkanbvwd4e,US,120,Read or Not,read-or-not,67512,67503,13,13,21.45733,13,13,0
+2025-04-30 04:00:00.000,deepai-yjdgkyt51l,US,128,Read or Not,read-or-not,67512,67503,1460,1460,2479.597909,1192,1161,11
+2025-04-30 04:00:00.000,pixelchat-qkanbvwd4e,Tier 1,120,Read or Not,read-or-not,67512,67503,4,4,7.130359,3,3,0
+2025-04-30 04:00:00.000,pixelchat-qkanbvwd4e,US,120,Read or Not,read-or-not,67512,67503,11,11,19.323029,11,11,0
+2025-04-30 05:00:00.000,deepai-yjdgkyt51l,US,128,Read or Not,read-or-not,67512,67503,1230,1230,2000.027092,971,928,12
+2025-04-30 05:00:00.000,pixelchat-qkanbvwd4e,Tier 1,120,Read or Not,read-or-not,67512,67503,1,1,1.731077,1,1,0
+2025-04-30 05:00:00.000,pixelchat-qkanbvwd4e,US,120,Read or Not,read-or-not,67512,67503,24,24,40.365825,19,18,1
+2025-04-30 06:00:00.000,deepai-yjdgkyt51l,US,128,Read or Not,read-or-not,67512,67503,1060,1060,1717.653907,858,821,14
+2025-04-30 06:00:00.000,pixelchat-qkanbvwd4e,Tier 1,120,Read or Not,read-or-not,67512,67503,2,2,3.145772,2,2,0
+2025-04-30 06:00:00.000,pixelchat-qkanbvwd4e,US,120,Read or Not,read-or-not,67512,67503,16,16,32.716929,16,16,0
+2025-04-30 07:00:00.000,deepai-yjdgkyt51l,US,128,Read or Not,read-or-not,67512,67503,804,804,1307.149094,639,600,6
+2025-04-30 07:00:00.000,pixelchat-qkanbvwd4e,Tier 1,120,Read or Not,read-or-not,67512,67503,7,7,13.493536,6,6,0
+2025-04-30 07:00:00.000,pixelchat-qkanbvwd4e,US,120,Read or Not,read-or-not,67512,67503,26,26,51.539159,23,23,0
+2025-04-30 08:00:00.000,deepai-yjdgkyt51l,US,128,Read or Not,read-or-not,67512,67503,743,743,1216.872213,596,576,7
+2025-04-30 08:00:00.000,pixelchat-qkanbvwd4e,Tier 1,120,Read or Not,read-or-not,67512,67503,13,13,22.001224,13,13,0
+2025-04-30 08:00:00.000,pixelchat-qkanbvwd4e,US,120,Read or Not,read-or-not,67512,67503,26,26,51.98532,21,21,1
+2025-04-30 09:00:00.000,deepai-yjdgkyt51l,US,128,Read or Not,read-or-not,67512,67503,635,635,1020.435013,484,468,6
+2025-04-30 09:00:00.000,pixelchat-qkanbvwd4e,Tier 1,120,Read or Not,read-or-not,67512,67503,12,12,25.537458,11,11,0
+2025-04-30 09:00:00.000,pixelchat-qkanbvwd4e,US,120,Read or Not,read-or-not,67512,67503,6,6,11.986721,6,6,0
+2025-04-30 10:00:00.000,deepai-yjdgkyt51l,US,128,Read or Not,read-or-not,67512,67503,629,629,1034.122549,482,461,13
+2025-04-30 10:00:00.000,pixelchat-qkanbvwd4e,Tier 1,120,Read or Not,read-or-not,67512,67503,12,12,25.755784,9,9,0
+2025-04-30 10:00:00.000,pixelchat-qkanbvwd4e,US,120,Read or Not,read-or-not,67512,67503,14,14,28.366285,13,13,0
+2025-04-30 11:00:00.000,deepai-yjdgkyt51l,US,128,Read or Not,read-or-not,67512,67503,956,956,1594.930481,733,716,10
+2025-04-30 11:00:00.000,pixelchat-qkanbvwd4e,Tier 1,120,Read or Not,read-or-not,67512,67503,9,9,16.754912,9,8,0
+2025-04-30 11:00:00.000,pixelchat-qkanbvwd4e,US,120,Read or Not,read-or-not,67512,67503,17,17,32.300859,15,15,0
+2025-04-30 12:00:00.000,deepai-yjdgkyt51l,US,128,Read or Not,read-or-not,67512,67503,167,167,287.35168,114,112,2
+2025-04-30 12:00:00.000,pixelchat-qkanbvwd4e,Tier 1,120,Read or Not,read-or-not,67512,67503,2,2,5.315088,2,2,0
+2025-04-30 12:00:00.000,pixelchat-qkanbvwd4e,US,120,Read or Not,read-or-not,67512,67503,2,2,2.481735,2,2,0
+2025-04-30 17:00:00.000,deepai-yjdgkyt51l,US,128,Read or Not,read-or-not,67512,67503,3078,3078,5013.921153,2389,2321,23
+2025-04-30 17:00:00.000,pixelchat-qkanbvwd4e,Tier 1,120,Read or Not,read-or-not,67512,67503,8,8,14.075064,8,8,0
+2025-04-30 17:00:00.000,pixelchat-qkanbvwd4e,US,120,Read or Not,read-or-not,67512,67503,5,5,12.215532,4,2,0
+2025-04-30 18:00:00.000,chai-uddtkp7zb1,US,143,Read or Not,read-or-not,67512,67503,760,760,760.0,756,755,11
+2025-04-30 18:00:00.000,deepai-yjdgkyt51l,US,128,Read or Not,read-or-not,67512,67503,2330,2330,3841.216465,1779,1708,19
+2025-04-30 18:00:00.000,pixelchat-qkanbvwd4e,Tier 1,120,Read or Not,read-or-not,67512,67503,5,5,8.688292,5,4,0
+2025-04-30 18:00:00.000,pixelchat-qkanbvwd4e,US,120,Read or Not,read-or-not,67512,67503,10,10,19.237321,7,7,0
+2025-04-30 19:00:00.000,chai-uddtkp7zb1,US,143,Read or Not,read-or-not,67512,67503,2394,2394,2394.0,2387,2380,44
+2025-04-30 19:00:00.000,deepai-yjdgkyt51l,US,128,Read or Not,read-or-not,67512,67503,1221,1221,1978.462449,927,906,6
+2025-04-30 19:00:00.000,pixelchat-qkanbvwd4e,Tier 1,120,Read or Not,read-or-not,67512,67503,2,2,2.42234,2,2,0
+2025-04-30 19:00:00.000,pixelchat-qkanbvwd4e,US,120,Read or Not,read-or-not,67512,67503,9,9,14.545048,7,6,0
+2025-04-30 20:00:00.000,chai-uddtkp7zb1,US,143,Read or Not,read-or-not,67512,67503,2351,2351,2351.0,2345,2338,58
+2025-04-30 20:00:00.000,deepai-yjdgkyt51l,US,128,Read or Not,read-or-not,67512,67503,1293,1293,2133.634226,1009,985,9
+2025-04-30 20:00:00.000,pixelchat-qkanbvwd4e,Tier 1,120,Read or Not,read-or-not,67512,67503,4,4,6.397044,4,3,0
+2025-04-30 20:00:00.000,pixelchat-qkanbvwd4e,US,120,Read or Not,read-or-not,67512,67503,15,15,26.826394,9,9,0
+2025-04-30 21:00:00.000,chai-uddtkp7zb1,US,143,Read or Not,read-or-not,67512,67503,2675,2675,2675.0,2666,2656,70
+2025-04-30 21:00:00.000,deepai-yjdgkyt51l,US,128,Read or Not,read-or-not,67512,67503,1074,1074,1779.444091,841,816,12
+2025-04-30 21:00:00.000,pixelchat-qkanbvwd4e,Tier 1,120,Read or Not,read-or-not,67512,67503,4,4,7.288213,4,4,0
+2025-04-30 21:00:00.000,pixelchat-qkanbvwd4e,US,120,Read or Not,read-or-not,67512,67503,9,9,17.181302,8,8,0
+2025-04-30 22:00:00.000,chai-uddtkp7zb1,US,143,Read or Not,read-or-not,67512,67503,3060,3060,3060.0,3059,3052,83
+2025-04-30 22:00:00.000,deepai-yjdgkyt51l,US,128,Read or Not,read-or-not,67512,67503,983,983,1617.136217,793,782,9
+2025-04-30 22:00:00.000,pixelchat-qkanbvwd4e,Tier 1,120,Read or Not,read-or-not,67512,67503,6,6,8.882768,5,5,0
+2025-04-30 22:00:00.000,pixelchat-qkanbvwd4e,US,120,Read or Not,read-or-not,67512,67503,16,16,24.861743,14,14,0
+2025-04-30 23:00:00.000,chai-uddtkp7zb1,US,143,Read or Not,read-or-not,67512,67503,2173,2173,2173.0,2170,2163,70
+2025-04-30 23:00:00.000,deepai-yjdgkyt51l,US,128,Read or Not,read-or-not,67512,67503,1088,1088,1779.471162,863,834,9
+2025-04-30 23:00:00.000,pixelchat-qkanbvwd4e,Tier 1,120,Read or Not,read-or-not,67512,67503,1,1,2.686144,1,1,0
+2025-04-30 23:00:00.000,pixelchat-qkanbvwd4e,US,120,Read or Not,read-or-not,67512,67503,5,5,9.285696,5,5,0
+2025-05-01 00:00:00.000,chai-uddtkp7zb1,US,143,Read or Not,read-or-not,67512,67503,2803,2803,2803.0,2798,2788,68
+2025-05-01 00:00:00.000,deepai-yjdgkyt51l,US,128,Read or Not,read-or-not,67512,67503,996,996,1639.903659,805,780,3
+2025-05-01 00:00:00.000,pixelchat-qkanbvwd4e,Tier 1,120,Read or Not,read-or-not,67512,67503,3,3,6.301803,3,3,0
+2025-05-01 00:00:00.000,pixelchat-qkanbvwd4e,US,120,Read or Not,read-or-not,67512,67503,7,7,11.258847,4,4,0
+2025-05-01 01:00:00.000,chai-uddtkp7zb1,US,143,Read or Not,read-or-not,67512,67503,3072,3072,3072.0,3068,3066,86
+2025-05-01 01:00:00.000,deepai-yjdgkyt51l,US,128,Read or Not,read-or-not,67512,67503,998,998,1634.894275,782,762,9
+2025-05-01 01:00:00.000,pixelchat-qkanbvwd4e,Tier 1,120,Read or Not,read-or-not,67512,67503,3,3,5.744314,3,3,0
+2025-05-01 01:00:00.000,pixelchat-qkanbvwd4e,US,120,Read or Not,read-or-not,67512,67503,6,6,11.893379,5,5,0
+2025-05-01 02:00:00.000,chai-uddtkp7zb1,US,143,Read or Not,read-or-not,67512,67503,2806,2806,2806.0,2803,2795,76
+2025-05-01 02:00:00.000,deepai-yjdgkyt51l,US,128,Read or Not,read-or-not,67512,67503,1001,1001,1618.132182,808,784,12
+2025-05-01 02:00:00.000,pixelchat-qkanbvwd4e,Tier 1,120,Read or Not,read-or-not,67512,67503,2,2,3.176433,1,1,0
+2025-05-01 02:00:00.000,pixelchat-qkanbvwd4e,US,120,Read or Not,read-or-not,67512,67503,2,2,4.62307,2,2,1
+2025-05-01 03:00:00.000,chai-uddtkp7zb1,US,143,Read or Not,read-or-not,67512,67503,3385,3385,3385.0,3382,3376,87
+2025-05-01 03:00:00.000,deepai-yjdgkyt51l,US,128,Read or Not,read-or-not,67512,67503,914,914,1534.425631,737,723,12
+2025-05-01 03:00:00.000,pixelchat-qkanbvwd4e,Tier 1,120,Read or Not,read-or-not,67512,67503,2,2,4.02501,2,2,0
+2025-05-01 03:00:00.000,pixelchat-qkanbvwd4e,US,120,Read or Not,read-or-not,67512,67503,4,4,8.094858,4,4,0
+2025-05-01 04:00:00.000,chai-uddtkp7zb1,US,143,Read or Not,read-or-not,67512,67503,2934,2934,2934.0,2934,2930,81
+2025-05-01 04:00:00.000,deepai-yjdgkyt51l,US,128,Read or Not,read-or-not,67512,67503,699,699,1152.42914,561,547,8
+2025-05-01 04:00:00.000,pixelchat-qkanbvwd4e,Tier 1,120,Read or Not,read-or-not,67512,67503,4,4,7.141996,4,4,1
+2025-05-01 04:00:00.000,pixelchat-qkanbvwd4e,US,120,Read or Not,read-or-not,67512,67503,12,12,22.529549,12,12,0
+2025-05-01 05:00:00.000,chai-uddtkp7zb1,US,143,Read or Not,read-or-not,67512,67503,1953,1953,1953.0,1949,1944,45
+2025-05-01 05:00:00.000,deepai-yjdgkyt51l,US,128,Read or Not,read-or-not,67512,67503,405,405,661.392288,317,308,1
+2025-05-01 05:00:00.000,pixelchat-qkanbvwd4e,Tier 1,120,Read or Not,read-or-not,67512,67503,3,3,3.938696,3,3,0
+2025-05-01 05:00:00.000,pixelchat-qkanbvwd4e,US,120,Read or Not,read-or-not,67512,67503,10,10,22.713997,10,10,0
+2025-05-01 06:00:00.000,chai-uddtkp7zb1,US,143,Read or Not,read-or-not,67512,67503,2144,2144,2144.0,2143,2136,51
+2025-05-01 06:00:00.000,deepai-yjdgkyt51l,US,128,Read or Not,read-or-not,67512,67503,369,369,599.691129,303,291,4
+2025-05-01 06:00:00.000,pixelchat-qkanbvwd4e,Tier 1,120,Read or Not,read-or-not,67512,67503,9,9,14.782336,8,8,0
+2025-05-01 06:00:00.000,pixelchat-qkanbvwd4e,US,120,Read or Not,read-or-not,67512,67503,9,9,16.51561,9,9,0
+2025-05-01 07:00:00.000,chai-uddtkp7zb1,US,143,Read or Not,read-or-not,67512,67503,1668,1668,1668.0,1668,1667,39
+2025-05-01 07:00:00.000,deepai-yjdgkyt51l,US,128,Read or Not,read-or-not,67512,67503,202,202,316.402343,164,161,3
+2025-05-01 07:00:00.000,pixelchat-qkanbvwd4e,Tier 1,120,Read or Not,read-or-not,67512,67503,4,4,9.334575,4,4,0
+2025-05-01 07:00:00.000,pixelchat-qkanbvwd4e,US,120,Read or Not,read-or-not,67512,67503,5,5,8.933121,4,4,0
+2025-05-01 08:00:00.000,chai-uddtkp7zb1,US,143,Read or Not,read-or-not,67512,67503,1428,1428,1428.0,1428,1426,31
+2025-05-01 08:00:00.000,deepai-yjdgkyt51l,US,128,Read or Not,read-or-not,67512,67503,163,163,258.858855,128,126,2
+2025-05-01 08:00:00.000,pixelchat-qkanbvwd4e,Tier 1,120,Read or Not,read-or-not,67512,67503,5,5,8.900661,5,5,0
+2025-05-01 08:00:00.000,pixelchat-qkanbvwd4e,US,120,Read or Not,read-or-not,67512,67503,10,10,19.620931,10,10,0
+2025-05-01 23:00:00.000,chai-uddtkp7zb1,US,143,Read or Not,read-or-not,67512,67503,4397,4397,4397.0,4394,4388,45
+2025-05-01 23:00:00.000,deepai-yjdgkyt51l,US,128,Read or Not,read-or-not,67512,67503,354,354,567.970078,259,254,1
+2025-05-01 23:00:00.000,pixelchat-qkanbvwd4e,Tier 1,120,Read or Not,read-or-not,67512,67503,6,6,9.709958,6,6,0
+2025-05-01 23:00:00.000,pixelchat-qkanbvwd4e,US,120,Read or Not,read-or-not,67512,67503,2,2,3.659964,2,2,0
+2025-05-02 00:00:00.000,chai-uddtkp7zb1,US,143,Read or Not,read-or-not,67512,67503,4214,4214,4214.0,4207,4202,61
+2025-05-02 00:00:00.000,deepai-yjdgkyt51l,US,128,Read or Not,read-or-not,67512,67503,437,437,714.70651,351,347,2
+2025-05-02 00:00:00.000,pixelchat-qkanbvwd4e,Tier 1,120,Read or Not,read-or-not,67512,67503,2,2,4.052647,2,2,0
+2025-05-02 00:00:00.000,pixelchat-qkanbvwd4e,US,120,Read or Not,read-or-not,67512,67503,3,3,5.775912,2,2,0
+2025-05-02 01:00:00.000,chai-uddtkp7zb1,US,143,Read or Not,read-or-not,67512,67503,4435,4435,4435.0,4433,4425,46
+2025-05-02 01:00:00.000,deepai-yjdgkyt51l,US,128,Read or Not,read-or-not,67512,67503,409,409,664.309223,317,307,5
+2025-05-02 01:00:00.000,pixelchat-qkanbvwd4e,US,120,Read or Not,read-or-not,67512,67503,4,4,5.332572,3,3,0
+2025-05-02 02:00:00.000,chai-uddtkp7zb1,US,143,Read or Not,read-or-not,67512,67503,4852,4852,4852.0,4848,4830,64
+2025-05-02 02:00:00.000,deepai-yjdgkyt51l,US,128,Read or Not,read-or-not,67512,67503,323,323,537.038072,249,245,0
+2025-05-02 02:00:00.000,pixelchat-qkanbvwd4e,Tier 1,120,Read or Not,read-or-not,67512,67503,6,6,11.04925,6,6,0
+2025-05-02 02:00:00.000,pixelchat-qkanbvwd4e,US,120,Read or Not,read-or-not,67512,67503,1,1,1.635103,1,1,0
+2025-05-02 03:00:00.000,chai-uddtkp7zb1,US,143,Read or Not,read-or-not,67512,67503,4486,4486,4486.0,4484,4478,62
+2025-05-02 03:00:00.000,deepai-yjdgkyt51l,US,128,Read or Not,read-or-not,67512,67503,438,438,699.810837,342,329,2
+2025-05-02 03:00:00.000,pixelchat-qkanbvwd4e,US,120,Read or Not,read-or-not,67512,67503,4,4,8.586271,4,4,0
+2025-05-02 04:00:00.000,chai-uddtkp7zb1,US,143,Read or Not,read-or-not,67512,67503,4267,4267,4267.0,4263,4252,52
+2025-05-02 04:00:00.000,deepai-yjdgkyt51l,US,128,Read or Not,read-or-not,67512,67503,301,301,475.748898,229,221,3
+2025-05-02 04:00:00.000,pixelchat-qkanbvwd4e,Tier 1,120,Read or Not,read-or-not,67512,67503,4,4,6.674932,4,4,0
+2025-05-02 04:00:00.000,pixelchat-qkanbvwd4e,US,120,Read or Not,read-or-not,67512,67503,7,7,12.583137,7,7,0
+2025-05-02 05:00:00.000,chai-uddtkp7zb1,US,143,Read or Not,read-or-not,67512,67503,3931,3931,3931.0,3929,3920,54
+2025-05-02 05:00:00.000,deepai-yjdgkyt51l,US,128,Read or Not,read-or-not,67512,67503,223,223,357.250723,168,166,0
+2025-05-02 05:00:00.000,pixelchat-qkanbvwd4e,Tier 1,120,Read or Not,read-or-not,67512,67503,7,7,15.276814,7,7,0
+2025-05-02 05:00:00.000,pixelchat-qkanbvwd4e,US,120,Read or Not,read-or-not,67512,67503,3,3,6.797494,3,3,0
+2025-05-02 06:00:00.000,chai-uddtkp7zb1,US,143,Read or Not,read-or-not,67512,67503,3192,3192,3192.0,3190,3185,53
+2025-05-02 06:00:00.000,deepai-yjdgkyt51l,US,128,Read or Not,read-or-not,67512,67503,210,210,325.69971,170,164,2
+2025-05-02 06:00:00.000,pixelchat-qkanbvwd4e,Tier 1,120,Read or Not,read-or-not,67512,67503,4,4,7.389161,4,4,0
+2025-05-02 06:00:00.000,pixelchat-qkanbvwd4e,US,120,Read or Not,read-or-not,67512,67503,5,5,9.684097,4,4,0
+2025-05-02 07:00:00.000,chai-uddtkp7zb1,US,143,Read or Not,read-or-not,67512,67503,2827,2827,2827.0,2825,2821,36
+2025-05-02 07:00:00.000,deepai-yjdgkyt51l,US,128,Read or Not,read-or-not,67512,67503,155,155,248.467099,124,121,4
+2025-05-02 07:00:00.000,pixelchat-qkanbvwd4e,Tier 1,120,Read or Not,read-or-not,67512,67503,8,8,14.857614,8,8,0
+2025-05-02 07:00:00.000,pixelchat-qkanbvwd4e,US,120,Read or Not,read-or-not,67512,67503,2,2,4.91637,2,2,0
+2025-05-02 08:00:00.000,chai-uddtkp7zb1,US,143,Read or Not,read-or-not,67512,67503,2425,2425,2425.0,2422,2417,39
+2025-05-02 08:00:00.000,deepai-yjdgkyt51l,US,128,Read or Not,read-or-not,67512,67503,112,112,176.753531,85,85,0
+2025-05-02 08:00:00.000,pixelchat-qkanbvwd4e,Tier 1,120,Read or Not,read-or-not,67512,67503,3,3,5.393683,3,3,0
+2025-05-02 08:00:00.000,pixelchat-qkanbvwd4e,US,120,Read or Not,read-or-not,67512,67503,6,6,11.461175,4,3,0
+2025-05-02 09:00:00.000,chai-uddtkp7zb1,US,143,Read or Not,read-or-not,67512,67503,2182,2182,2182.0,2181,2174,22
+2025-05-02 09:00:00.000,deepai-yjdgkyt51l,US,128,Read or Not,read-or-not,67512,67503,127,127,203.777632,93,90,0
+2025-05-02 09:00:00.000,pixelchat-qkanbvwd4e,Tier 1,120,Read or Not,read-or-not,67512,67503,13,13,25.619732,11,11,0
+2025-05-02 09:00:00.000,pixelchat-qkanbvwd4e,US,120,Read or Not,read-or-not,67512,67503,1,1,1.281407,1,1,0
+2025-05-02 10:00:00.000,chai-uddtkp7zb1,US,143,Read or Not,read-or-not,67512,67503,1498,1498,1498.0,1498,1496,18
+2025-05-02 10:00:00.000,deepai-yjdgkyt51l,US,128,Read or Not,read-or-not,67512,67503,92,92,149.987109,76,75,0
+2025-05-02 10:00:00.000,pixelchat-qkanbvwd4e,Tier 1,120,Read or Not,read-or-not,67512,67503,4,4,7.72356,4,4,0
+2025-05-02 10:00:00.000,pixelchat-qkanbvwd4e,US,120,Read or Not,read-or-not,67512,67503,3,3,4.622619,3,3,0
+2025-05-02 11:00:00.000,chai-uddtkp7zb1,US,143,Read or Not,read-or-not,67512,67503,1669,1669,1669.0,1663,1652,20
+2025-05-02 11:00:00.000,deepai-yjdgkyt51l,US,128,Read or Not,read-or-not,67512,67503,161,161,283.245069,127,127,1
+2025-05-02 11:00:00.000,pixelchat-qkanbvwd4e,Tier 1,120,Read or Not,read-or-not,67512,67503,3,3,6.896825,2,2,0
+2025-05-02 11:00:00.000,pixelchat-qkanbvwd4e,US,120,Read or Not,read-or-not,67512,67503,1,1,1.283975,1,1,0
+2025-05-02 12:00:00.000,chai-uddtkp7zb1,US,143,Read or Not,read-or-not,67512,67503,1635,1635,1635.0,1630,1623,16
+2025-05-02 12:00:00.000,deepai-yjdgkyt51l,US,128,Read or Not,read-or-not,67512,67503,325,325,518.873713,228,223,1
+2025-05-02 12:00:00.000,pixelchat-qkanbvwd4e,Tier 1,120,Read or Not,read-or-not,67512,67503,3,3,5.592779,3,3,0
+2025-05-02 12:00:00.000,pixelchat-qkanbvwd4e,US,120,Read or Not,read-or-not,67512,67503,2,2,5.348005,2,2,0
+2025-05-02 13:00:00.000,chai-uddtkp7zb1,US,143,Read or Not,read-or-not,67512,67503,1589,1589,1589.0,1587,1586,19
+2025-05-02 13:00:00.000,deepai-yjdgkyt51l,US,128,Read or Not,read-or-not,67512,67503,612,612,1007.032939,438,427,3
+2025-05-02 13:00:00.000,pixelchat-qkanbvwd4e,Tier 1,120,Read or Not,read-or-not,67512,67503,6,6,11.396676,6,6,0
+2025-05-02 13:00:00.000,pixelchat-qkanbvwd4e,US,120,Read or Not,read-or-not,67512,67503,3,3,5.030834,3,3,0
+2025-05-02 14:00:00.000,chai-uddtkp7zb1,US,143,Read or Not,read-or-not,67512,67503,1580,1580,1580.0,1578,1574,23
+2025-05-02 14:00:00.000,deepai-yjdgkyt51l,US,128,Read or Not,read-or-not,67512,67503,798,798,1332.213181,620,608,4
+2025-05-02 14:00:00.000,pixelchat-qkanbvwd4e,Tier 1,120,Read or Not,read-or-not,67512,67503,4,4,6.56209,3,3,0
+2025-05-02 14:00:00.000,pixelchat-qkanbvwd4e,US,120,Read or Not,read-or-not,67512,67503,3,3,4.369772,3,3,0
+2025-05-02 15:00:00.000,chai-uddtkp7zb1,US,143,Read or Not,read-or-not,67512,67503,21,21,21.0,21,21,1
+2025-05-02 15:00:00.000,deepai-yjdgkyt51l,US,128,Read or Not,read-or-not,67512,67503,55,55,88.9956,42,41,0
+2025-05-02 15:00:00.000,pixelchat-qkanbvwd4e,Tier 1,120,Read or Not,read-or-not,67512,67503,2,2,3.634892,2,2,0
+2025-05-02 15:00:00.000,pixelchat-qkanbvwd4e,US,120,Read or Not,read-or-not,67512,67503,1,1,2.309422,1,1,0
+2025-05-03 16:00:00.000,chai-uddtkp7zb1,US,143,Read or Not,read-or-not,67512,67503,3921,3921,3921.0,3912,3894,40
+2025-05-03 16:00:00.000,deepai-yjdgkyt51l,US,128,Read or Not,read-or-not,67512,67503,254,254,425.859177,187,179,1
+2025-05-03 16:00:00.000,pixelchat-qkanbvwd4e,Tier 1,120,Read or Not,read-or-not,67512,67503,3,3,7.166822,3,3,0
+2025-05-03 16:00:00.000,pixelchat-qkanbvwd4e,US,120,Read or Not,read-or-not,67512,67503,4,4,9.348512,3,3,0
+2025-05-03 17:00:00.000,chai-uddtkp7zb1,US,143,Read or Not,read-or-not,67512,67503,4735,4735,4735.0,4714,4702,58
+2025-05-03 17:00:00.000,deepai-yjdgkyt51l,US,128,Read or Not,read-or-not,67512,67503,233,233,369.017286,175,165,2
+2025-05-03 17:00:00.000,pixelchat-qkanbvwd4e,Tier 1,120,Read or Not,read-or-not,67512,67503,10,10,19.610699,7,6,0
+2025-05-03 17:00:00.000,pixelchat-qkanbvwd4e,US,120,Read or Not,read-or-not,67512,67503,6,6,10.62353,6,6,0
+2025-05-03 18:00:00.000,chai-uddtkp7zb1,US,143,Read or Not,read-or-not,67512,67503,4550,4550,4550.0,4541,4528,49
+2025-05-03 18:00:00.000,deepai-yjdgkyt51l,US,128,Read or Not,read-or-not,67512,67503,287,287,483.482366,230,224,3
+2025-05-03 18:00:00.000,pixelchat-qkanbvwd4e,Tier 1,120,Read or Not,read-or-not,67512,67503,3,3,6.030354,3,3,0
+2025-05-03 18:00:00.000,pixelchat-qkanbvwd4e,US,120,Read or Not,read-or-not,67512,67503,5,5,11.204139,5,5,0
+2025-05-03 19:00:00.000,chai-uddtkp7zb1,US,143,Read or Not,read-or-not,67512,67503,4453,4453,4453.0,4437,4424,72
+2025-05-03 19:00:00.000,deepai-yjdgkyt51l,US,128,Read or Not,read-or-not,67512,67503,341,341,554.694182,271,259,2
+2025-05-03 19:00:00.000,pixelchat-qkanbvwd4e,Tier 1,120,Read or Not,read-or-not,67512,67503,3,3,6.013225,3,3,0
+2025-05-03 19:00:00.000,pixelchat-qkanbvwd4e,US,120,Read or Not,read-or-not,67512,67503,6,6,11.219993,6,6,0
+2025-05-03 20:00:00.000,chai-uddtkp7zb1,US,143,Read or Not,read-or-not,67512,67503,4882,4882,4882.0,4878,4864,95
+2025-05-03 20:00:00.000,deepai-yjdgkyt51l,US,128,Read or Not,read-or-not,67512,67503,309,309,494.936017,239,229,1
+2025-05-03 20:00:00.000,pixelchat-qkanbvwd4e,Tier 1,120,Read or Not,read-or-not,67512,67503,5,5,8.859961,5,5,0
+2025-05-03 20:00:00.000,pixelchat-qkanbvwd4e,US,120,Read or Not,read-or-not,67512,67503,6,6,11.530594,6,6,0
+2025-05-03 21:00:00.000,chai-uddtkp7zb1,US,143,Read or Not,read-or-not,67512,67503,5099,5099,5099.0,5085,5077,104
+2025-05-03 21:00:00.000,deepai-yjdgkyt51l,US,128,Read or Not,read-or-not,67512,67503,237,237,384.928948,178,174,2
+2025-05-03 21:00:00.000,pixelchat-qkanbvwd4e,Tier 1,120,Read or Not,read-or-not,67512,67503,6,6,10.450709,6,6,0
+2025-05-03 21:00:00.000,pixelchat-qkanbvwd4e,US,120,Read or Not,read-or-not,67512,67503,7,7,12.54774,7,7,0
+2025-05-03 22:00:00.000,chai-uddtkp7zb1,US,143,Read or Not,read-or-not,67512,67503,5115,5115,5115.0,5107,5094,112
+2025-05-03 22:00:00.000,deepai-yjdgkyt51l,US,128,Read or Not,read-or-not,67512,67503,284,284,461.98429,221,210,2
+2025-05-03 22:00:00.000,pixelchat-qkanbvwd4e,Tier 1,120,Read or Not,read-or-not,67512,67503,3,3,6.192821,3,3,0
+2025-05-03 22:00:00.000,pixelchat-qkanbvwd4e,US,120,Read or Not,read-or-not,67512,67503,4,4,7.550753,4,3,0
+2025-05-03 23:00:00.000,chai-uddtkp7zb1,US,143,Read or Not,read-or-not,67512,67503,5170,5170,5170.0,5160,5146,91
+2025-05-03 23:00:00.000,deepai-yjdgkyt51l,US,128,Read or Not,read-or-not,67512,67503,270,270,444.533142,208,200,2
+2025-05-03 23:00:00.000,pixelchat-qkanbvwd4e,Tier 1,120,Read or Not,read-or-not,67512,67503,2,2,3.501932,2,2,0
+2025-05-04 00:00:00.000,chai-uddtkp7zb1,US,143,Read or Not,read-or-not,67512,67503,5053,5053,5053.0,5045,5036,75
+2025-05-04 00:00:00.000,deepai-yjdgkyt51l,US,128,Read or Not,read-or-not,67512,67503,335,335,559.509873,265,256,4
+2025-05-04 00:00:00.000,pixelchat-qkanbvwd4e,Tier 1,120,Read or Not,read-or-not,67512,67503,4,4,6.61741,4,4,0
+2025-05-04 00:00:00.000,pixelchat-qkanbvwd4e,US,120,Read or Not,read-or-not,67512,67503,2,2,4.961571,2,1,0
+2025-05-04 01:00:00.000,chai-uddtkp7zb1,US,143,Read or Not,read-or-not,67512,67503,5238,5238,5238.0,5231,5219,111
+2025-05-04 01:00:00.000,deepai-yjdgkyt51l,US,128,Read or Not,read-or-not,67512,67503,263,263,415.310569,200,192,2
+2025-05-04 01:00:00.000,pixelchat-qkanbvwd4e,Tier 1,120,Read or Not,read-or-not,67512,67503,4,4,5.920191,4,3,0
+2025-05-04 01:00:00.000,pixelchat-qkanbvwd4e,US,120,Read or Not,read-or-not,67512,67503,1,1,1.735319,1,1,0
+2025-05-04 02:00:00.000,chai-uddtkp7zb1,US,143,Read or Not,read-or-not,67512,67503,5300,5300,5300.0,5292,5277,86
+2025-05-04 02:00:00.000,deepai-yjdgkyt51l,US,128,Read or Not,read-or-not,67512,67503,365,365,614.774741,278,270,1
+2025-05-04 02:00:00.000,pixelchat-qkanbvwd4e,Tier 1,120,Read or Not,read-or-not,67512,67503,3,3,3.656659,2,2,1
+2025-05-04 02:00:00.000,pixelchat-qkanbvwd4e,US,120,Read or Not,read-or-not,67512,67503,2,2,4.319855,2,2,0
+2025-05-04 03:00:00.000,chai-uddtkp7zb1,US,143,Read or Not,read-or-not,67512,67503,5529,5529,5529.0,5527,5509,103
+2025-05-04 03:00:00.000,deepai-yjdgkyt51l,US,128,Read or Not,read-or-not,67512,67503,259,259,439.988385,204,196,6
+2025-05-04 03:00:00.000,pixelchat-qkanbvwd4e,US,120,Read or Not,read-or-not,67512,67503,3,3,4.839719,3,3,0
+2025-05-04 04:00:00.000,chai-uddtkp7zb1,US,143,Read or Not,read-or-not,67512,67503,5125,5125,5125.0,5122,5112,82
+2025-05-04 04:00:00.000,deepai-yjdgkyt51l,US,128,Read or Not,read-or-not,67512,67503,300,300,503.876079,238,230,3
+2025-05-04 04:00:00.000,pixelchat-qkanbvwd4e,Tier 1,120,Read or Not,read-or-not,67512,67503,1,1,1.633101,1,1,0
+2025-05-04 04:00:00.000,pixelchat-qkanbvwd4e,US,120,Read or Not,read-or-not,67512,67503,4,4,8.541886,4,4,0
+2025-05-04 05:00:00.000,chai-uddtkp7zb1,US,143,Read or Not,read-or-not,67512,67503,2427,2427,2427.0,2425,2421,43
+2025-05-04 05:00:00.000,deepai-yjdgkyt51l,US,128,Read or Not,read-or-not,67512,67503,147,147,247.106714,118,117,2
+2025-05-04 05:00:00.000,pixelchat-qkanbvwd4e,Tier 1,120,Read or Not,read-or-not,67512,67503,2,2,3.494758,2,2,0
+2025-05-04 05:00:00.000,pixelchat-qkanbvwd4e,US,120,Read or Not,read-or-not,67512,67503,3,3,6.679612,2,2,0
+2025-05-05 06:00:00.000,chai-uddtkp7zb1,US,143,Read or Not,read-or-not,67512,67503,4226,4226,4226.0,4219,4212,58
+2025-05-05 06:00:00.000,deepai-yjdgkyt51l,US,128,Read or Not,read-or-not,67512,67503,340,340,572.116575,272,257,4
+2025-05-05 06:00:00.000,pixelchat-qkanbvwd4e,US,120,Read or Not,read-or-not,67512,67503,14,14,25.391802,13,13,0
+2025-05-05 07:00:00.000,chai-uddtkp7zb1,US,143,Read or Not,read-or-not,67512,67503,4133,4133,4133.0,4128,4122,54
+2025-05-05 07:00:00.000,deepai-yjdgkyt51l,US,128,Read or Not,read-or-not,67512,67503,157,157,266.153053,124,120,0
+2025-05-05 07:00:00.000,pixelchat-qkanbvwd4e,US,120,Read or Not,read-or-not,67512,67503,1,1,1.740599,1,1,0
+2025-05-05 08:00:00.000,chai-uddtkp7zb1,US,143,Read or Not,read-or-not,67512,67503,3413,3413,3413.0,3400,3394,49
+2025-05-05 08:00:00.000,deepai-yjdgkyt51l,US,128,Read or Not,read-or-not,67512,67503,151,151,248.76211,110,105,0
+2025-05-05 08:00:00.000,pixelchat-qkanbvwd4e,Tier 1,120,Read or Not,read-or-not,67512,67503,4,4,7.136558,4,4,0
+2025-05-05 08:00:00.000,pixelchat-qkanbvwd4e,US,120,Read or Not,read-or-not,67512,67503,3,3,4.971099,3,3,0
+2025-05-05 09:00:00.000,chai-uddtkp7zb1,US,143,Read or Not,read-or-not,67512,67503,3069,3069,3069.0,3063,3060,44
+2025-05-05 09:00:00.000,deepai-yjdgkyt51l,US,128,Read or Not,read-or-not,67512,67503,153,153,256.142579,103,102,2
+2025-05-05 09:00:00.000,pixelchat-qkanbvwd4e,Tier 1,120,Read or Not,read-or-not,67512,67503,6,6,10.891169,6,6,0
+2025-05-05 09:00:00.000,pixelchat-qkanbvwd4e,US,120,Read or Not,read-or-not,67512,67503,6,6,11.339969,6,5,0
+2025-05-05 10:00:00.000,chai-uddtkp7zb1,US,143,Read or Not,read-or-not,67512,67503,3295,3295,3295.0,3290,3284,49
+2025-05-05 10:00:00.000,deepai-yjdgkyt51l,US,128,Read or Not,read-or-not,67512,67503,138,138,223.247352,104,102,1
+2025-05-05 10:00:00.000,pixelchat-qkanbvwd4e,Tier 1,120,Read or Not,read-or-not,67512,67503,6,6,10.089932,6,6,0
+2025-05-05 10:00:00.000,pixelchat-qkanbvwd4e,US,120,Read or Not,read-or-not,67512,67503,5,5,8.244836,5,5,0
+2025-05-05 11:00:00.000,chai-uddtkp7zb1,US,143,Read or Not,read-or-not,67512,67503,3371,3371,3371.0,3367,3358,47
+2025-05-05 11:00:00.000,deepai-yjdgkyt51l,US,128,Read or Not,read-or-not,67512,67503,167,167,273.124423,124,117,3
+2025-05-05 11:00:00.000,pixelchat-qkanbvwd4e,Tier 1,120,Read or Not,read-or-not,67512,67503,6,6,11.338501,6,6,0
+2025-05-05 11:00:00.000,pixelchat-qkanbvwd4e,US,120,Read or Not,read-or-not,67512,67503,8,8,18.319534,7,7,0
+2025-05-05 12:00:00.000,chai-uddtkp7zb1,US,143,Read or Not,read-or-not,67512,67503,3287,3287,3287.0,3282,3272,47
+2025-05-05 12:00:00.000,deepai-yjdgkyt51l,US,128,Read or Not,read-or-not,67512,67503,247,247,398.997801,177,170,2
+2025-05-05 12:00:00.000,pixelchat-qkanbvwd4e,Tier 1,120,Read or Not,read-or-not,67512,67503,3,3,7.466878,3,3,0
+2025-05-05 12:00:00.000,pixelchat-qkanbvwd4e,US,120,Read or Not,read-or-not,67512,67503,8,8,14.356597,7,7,0
+2025-05-05 13:00:00.000,chai-uddtkp7zb1,US,143,Read or Not,read-or-not,67512,67503,3130,3130,3130.0,3125,3117,55
+2025-05-05 13:00:00.000,deepai-yjdgkyt51l,US,128,Read or Not,read-or-not,67512,67503,547,547,918.607321,405,375,3
+2025-05-05 13:00:00.000,pixelchat-qkanbvwd4e,Tier 1,120,Read or Not,read-or-not,67512,67503,3,3,5.165967,3,3,0
+2025-05-05 13:00:00.000,pixelchat-qkanbvwd4e,US,120,Read or Not,read-or-not,67512,67503,7,7,11.218519,7,7,0
+2025-05-05 14:00:00.000,chai-uddtkp7zb1,US,143,Read or Not,read-or-not,67512,67503,3140,3140,3140.0,3135,3125,43
+2025-05-05 14:00:00.000,deepai-yjdgkyt51l,US,128,Read or Not,read-or-not,67512,67503,783,783,1263.790261,583,558,5
+2025-05-05 14:00:00.000,pixelchat-qkanbvwd4e,Tier 1,120,Read or Not,read-or-not,67512,67503,2,2,3.880858,2,2,0
+2025-05-05 14:00:00.000,pixelchat-qkanbvwd4e,US,120,Read or Not,read-or-not,67512,67503,5,5,9.902004,5,5,0
+2025-05-05 15:00:00.000,chai-uddtkp7zb1,US,143,Read or Not,read-or-not,67512,67503,3037,3037,3037.0,3029,3020,42
+2025-05-05 15:00:00.000,deepai-yjdgkyt51l,US,128,Read or Not,read-or-not,67512,67503,971,971,1587.443828,727,687,5
+2025-05-05 15:00:00.000,pixelchat-qkanbvwd4e,Tier 1,120,Read or Not,read-or-not,67512,67503,5,5,10.125213,5,5,0
+2025-05-05 15:00:00.000,pixelchat-qkanbvwd4e,US,120,Read or Not,read-or-not,67512,67503,2,2,4.475435,2,1,0
+2025-05-05 16:00:00.000,chai-uddtkp7zb1,US,143,Read or Not,read-or-not,67512,67503,3242,3242,3242.0,3234,3226,58
+2025-05-05 16:00:00.000,deepai-yjdgkyt51l,US,128,Read or Not,read-or-not,67512,67503,872,872,1415.806382,643,613,2
+2025-05-05 16:00:00.000,pixelchat-qkanbvwd4e,Tier 1,120,Read or Not,read-or-not,67512,67503,1,1,1.541283,1,1,0
+2025-05-05 16:00:00.000,pixelchat-qkanbvwd4e,US,120,Read or Not,read-or-not,67512,67503,2,2,3.165457,2,2,0
+2025-05-05 17:00:00.000,chai-uddtkp7zb1,US,143,Read or Not,read-or-not,67512,67503,3173,3173,3173.0,3169,3161,36
+2025-05-05 17:00:00.000,deepai-yjdgkyt51l,US,128,Read or Not,read-or-not,67512,67503,928,928,1521.000829,708,668,4
+2025-05-05 17:00:00.000,pixelchat-qkanbvwd4e,Tier 1,120,Read or Not,read-or-not,67512,67503,5,5,8.712358,2,2,0
+2025-05-05 17:00:00.000,pixelchat-qkanbvwd4e,US,120,Read or Not,read-or-not,67512,67503,6,6,10.026841,5,5,0
+2025-05-05 18:00:00.000,chai-uddtkp7zb1,US,143,Read or Not,read-or-not,67512,67503,3168,3168,3168.0,3156,3138,35
+2025-05-05 18:00:00.000,deepai-yjdgkyt51l,US,128,Read or Not,read-or-not,67512,67503,1005,1005,1676.534471,792,750,3
+2025-05-05 18:00:00.000,pixelchat-qkanbvwd4e,Tier 1,120,Read or Not,read-or-not,67512,67503,3,3,4.787423,2,2,0
+2025-05-05 18:00:00.000,pixelchat-qkanbvwd4e,US,120,Read or Not,read-or-not,67512,67503,7,7,12.976426,7,6,0
+2025-05-05 19:00:00.000,chai-uddtkp7zb1,US,143,Read or Not,read-or-not,67512,67503,3892,3892,3892.0,3886,3871,46
+2025-05-05 19:00:00.000,deepai-yjdgkyt51l,US,128,Read or Not,read-or-not,67512,67503,519,519,860.012784,403,388,3
+2025-05-05 19:00:00.000,pixelchat-qkanbvwd4e,Tier 1,120,Read or Not,read-or-not,67512,67503,5,5,10.15896,5,5,0
+2025-05-05 19:00:00.000,pixelchat-qkanbvwd4e,US,120,Read or Not,read-or-not,67512,67503,5,5,9.109846,5,5,0
+2025-05-05 20:00:00.000,chai-uddtkp7zb1,US,143,Read or Not,read-or-not,67512,67503,4241,4241,4241.0,4229,4205,53
+2025-05-05 20:00:00.000,deepai-yjdgkyt51l,US,128,Read or Not,read-or-not,67512,67503,470,470,766.101351,372,353,3
+2025-05-05 20:00:00.000,pixelchat-qkanbvwd4e,Tier 1,120,Read or Not,read-or-not,67512,67503,5,5,9.392722,5,5,0
+2025-05-05 20:00:00.000,pixelchat-qkanbvwd4e,US,120,Read or Not,read-or-not,67512,67503,6,6,11.006208,6,6,0
+2025-05-05 21:00:00.000,chai-uddtkp7zb1,US,143,Read or Not,read-or-not,67512,67503,4265,4265,4265.0,4256,4241,60
+2025-05-05 21:00:00.000,deepai-yjdgkyt51l,US,128,Read or Not,read-or-not,67512,67503,554,554,909.537472,425,399,5
+2025-05-05 21:00:00.000,pixelchat-qkanbvwd4e,Tier 1,120,Read or Not,read-or-not,67512,67503,3,3,4.771993,3,3,0
+2025-05-05 21:00:00.000,pixelchat-qkanbvwd4e,US,120,Read or Not,read-or-not,67512,67503,4,4,5.969175,3,3,0
+2025-05-05 22:00:00.000,chai-uddtkp7zb1,US,143,Read or Not,read-or-not,67512,67503,910,910,910.0,909,909,11
+2025-05-05 22:00:00.000,deepai-yjdgkyt51l,US,128,Read or Not,read-or-not,67512,67503,414,414,674.082124,316,296,0
+2025-05-05 22:00:00.000,pixelchat-qkanbvwd4e,US,120,Read or Not,read-or-not,67512,67503,2,2,4.619793,2,2,0
+2025-05-06 06:00:00.000,chai-uddtkp7zb1,US,143,Read or Not,read-or-not,67512,67503,3421,3421,3421.0,3415,3406,43
+2025-05-06 06:00:00.000,deepai-yjdgkyt51l,US,128,Read or Not,read-or-not,67512,67503,337,337,559.828028,264,249,3
+2025-05-06 06:00:00.000,pixelchat-qkanbvwd4e,Tier 1,120,Read or Not,read-or-not,67512,67503,1,1,2.066579,1,1,0
+2025-05-06 06:00:00.000,pixelchat-qkanbvwd4e,US,120,Read or Not,read-or-not,67512,67503,13,13,22.923016,11,11,0
+2025-05-06 07:00:00.000,chai-uddtkp7zb1,US,143,Read or Not,read-or-not,67512,67503,3823,3823,3823.0,3819,3815,55
+2025-05-06 07:00:00.000,deepai-yjdgkyt51l,US,128,Read or Not,read-or-not,67512,67503,168,168,289.50167,131,122,1
+2025-05-06 07:00:00.000,pixelchat-qkanbvwd4e,US,120,Read or Not,read-or-not,67512,67503,5,5,8.327823,4,4,0
+2025-05-06 08:00:00.000,chai-uddtkp7zb1,US,143,Read or Not,read-or-not,67512,67503,3203,3203,3203.0,3182,3164,34
+2025-05-06 08:00:00.000,deepai-yjdgkyt51l,US,128,Read or Not,read-or-not,67512,67503,186,186,295.858873,147,142,0
+2025-05-06 08:00:00.000,pixelchat-qkanbvwd4e,Tier 1,120,Read or Not,read-or-not,67512,67503,1,1,1.899906,1,1,0
+2025-05-06 08:00:00.000,pixelchat-qkanbvwd4e,US,120,Read or Not,read-or-not,67512,67503,4,4,6.475864,4,4,0
+2025-05-06 09:00:00.000,chai-uddtkp7zb1,US,143,Read or Not,read-or-not,67512,67503,3168,3168,3168.0,3167,3164,52
+2025-05-06 09:00:00.000,deepai-yjdgkyt51l,US,128,Read or Not,read-or-not,67512,67503,123,123,196.29422,96,95,0
+2025-05-06 09:00:00.000,pixelchat-qkanbvwd4e,Tier 1,120,Read or Not,read-or-not,67512,67503,2,2,2.371148,2,2,0
+2025-05-06 09:00:00.000,pixelchat-qkanbvwd4e,US,120,Read or Not,read-or-not,67512,67503,6,6,11.966709,6,5,0
+2025-05-06 10:00:00.000,chai-uddtkp7zb1,US,143,Read or Not,read-or-not,67512,67503,3403,3403,3403.0,3395,3389,40
+2025-05-06 10:00:00.000,deepai-yjdgkyt51l,US,128,Read or Not,read-or-not,67512,67503,85,85,146.507443,74,72,1
+2025-05-06 10:00:00.000,pixelchat-qkanbvwd4e,Tier 1,120,Read or Not,read-or-not,67512,67503,1,1,1.881915,1,1,1
+2025-05-06 10:00:00.000,pixelchat-qkanbvwd4e,US,120,Read or Not,read-or-not,67512,67503,7,7,12.296673,7,7,0
+2025-05-06 11:00:00.000,chai-uddtkp7zb1,US,143,Read or Not,read-or-not,67512,67503,3513,3513,3513.0,3507,3499,54
+2025-05-06 11:00:00.000,deepai-yjdgkyt51l,US,128,Read or Not,read-or-not,67512,67503,121,121,195.537818,93,89,1
+2025-05-06 11:00:00.000,pixelchat-qkanbvwd4e,Tier 1,120,Read or Not,read-or-not,67512,67503,3,3,6.030701,3,3,0
+2025-05-06 11:00:00.000,pixelchat-qkanbvwd4e,US,120,Read or Not,read-or-not,67512,67503,2,2,4.184901,1,1,0
+2025-05-06 12:00:00.000,chai-uddtkp7zb1,US,143,Read or Not,read-or-not,67512,67503,3386,3386,3386.0,3379,3366,49
+2025-05-06 12:00:00.000,deepai-yjdgkyt51l,US,128,Read or Not,read-or-not,67512,67503,226,226,375.953694,170,162,0
+2025-05-06 12:00:00.000,pixelchat-qkanbvwd4e,Tier 1,120,Read or Not,read-or-not,67512,67503,2,2,2.301394,2,2,0
+2025-05-06 12:00:00.000,pixelchat-qkanbvwd4e,US,120,Read or Not,read-or-not,67512,67503,7,7,13.01934,5,5,0
+2025-05-06 13:00:00.000,chai-uddtkp7zb1,US,143,Read or Not,read-or-not,67512,67503,3136,3136,3136.0,3132,3119,40
+2025-05-06 13:00:00.000,deepai-yjdgkyt51l,US,128,Read or Not,read-or-not,67512,67503,636,636,1055.155636,483,457,3
+2025-05-06 13:00:00.000,pixelchat-qkanbvwd4e,Tier 1,120,Read or Not,read-or-not,67512,67503,1,1,1.71109,1,1,0
+2025-05-06 13:00:00.000,pixelchat-qkanbvwd4e,US,120,Read or Not,read-or-not,67512,67503,3,3,6.859526,2,1,0
+2025-05-06 14:00:00.000,chai-uddtkp7zb1,US,143,Read or Not,read-or-not,67512,67503,2877,2877,2877.0,2871,2863,43
+2025-05-06 14:00:00.000,deepai-yjdgkyt51l,US,128,Read or Not,read-or-not,67512,67503,962,962,1609.583284,738,705,6
+2025-05-06 14:00:00.000,pixelchat-qkanbvwd4e,Tier 1,120,Read or Not,read-or-not,67512,67503,2,2,4.378811,2,2,0
+2025-05-06 14:00:00.000,pixelchat-qkanbvwd4e,US,120,Read or Not,read-or-not,67512,67503,5,5,8.985344,2,1,0
+2025-05-06 15:00:00.000,chai-uddtkp7zb1,US,143,Read or Not,read-or-not,67512,67503,2983,2983,2983.0,2978,2969,39
+2025-05-06 15:00:00.000,deepai-yjdgkyt51l,US,128,Read or Not,read-or-not,67512,67503,1112,1112,1799.016904,811,751,5
+2025-05-06 15:00:00.000,pixelchat-qkanbvwd4e,Tier 1,120,Read or Not,read-or-not,67512,67503,3,3,5.005853,3,3,0
+2025-05-06 15:00:00.000,pixelchat-qkanbvwd4e,US,120,Read or Not,read-or-not,67512,67503,2,2,3.096683,2,2,0
+2025-05-06 16:00:00.000,chai-uddtkp7zb1,US,143,Read or Not,read-or-not,67512,67503,3183,3183,3183.0,3175,3158,43
+2025-05-06 16:00:00.000,deepai-yjdgkyt51l,US,128,Read or Not,read-or-not,67512,67503,840,840,1374.637253,646,603,7
+2025-05-06 16:00:00.000,pixelchat-qkanbvwd4e,US,120,Read or Not,read-or-not,67512,67503,3,3,5.278098,3,3,0
+2025-05-06 17:00:00.000,chai-uddtkp7zb1,US,143,Read or Not,read-or-not,67512,67503,2895,2895,2895.0,2891,2881,26
+2025-05-06 17:00:00.000,deepai-yjdgkyt51l,US,128,Read or Not,read-or-not,67512,67503,1155,1155,1868.489213,863,808,10
+2025-05-06 17:00:00.000,pixelchat-qkanbvwd4e,Tier 1,120,Read or Not,read-or-not,67512,67503,5,5,9.908322,4,3,0
+2025-05-06 17:00:00.000,pixelchat-qkanbvwd4e,US,120,Read or Not,read-or-not,67512,67503,6,6,9.935784,6,6,0
+2025-05-06 18:00:00.000,chai-uddtkp7zb1,US,143,Read or Not,read-or-not,67512,67503,3192,3192,3192.0,3184,3173,35
+2025-05-06 18:00:00.000,deepai-yjdgkyt51l,US,128,Read or Not,read-or-not,67512,67503,957,957,1614.149964,736,696,10
+2025-05-06 18:00:00.000,pixelchat-qkanbvwd4e,Tier 1,120,Read or Not,read-or-not,67512,67503,1,1,1.469267,1,1,0
+2025-05-06 18:00:00.000,pixelchat-qkanbvwd4e,US,120,Read or Not,read-or-not,67512,67503,3,3,5.951102,3,3,0
+2025-05-06 19:00:00.000,chai-uddtkp7zb1,US,143,Read or Not,read-or-not,67512,67503,3741,3741,3741.0,3730,3713,60
+2025-05-06 19:00:00.000,deepai-yjdgkyt51l,US,128,Read or Not,read-or-not,67512,67503,660,660,1085.893555,500,464,7
+2025-05-06 19:00:00.000,pixelchat-qkanbvwd4e,Tier 1,120,Read or Not,read-or-not,67512,67503,2,2,4.804938,2,2,0
+2025-05-06 19:00:00.000,pixelchat-qkanbvwd4e,US,120,Read or Not,read-or-not,67512,67503,3,3,7.356885,3,3,0
+2025-05-06 20:00:00.000,chai-uddtkp7zb1,US,143,Read or Not,read-or-not,67512,67503,3920,3920,3920.0,3906,3893,54
+2025-05-06 20:00:00.000,deepai-yjdgkyt51l,US,128,Read or Not,read-or-not,67512,67503,781,781,1285.173134,601,561,4
+2025-05-06 20:00:00.000,pixelchat-qkanbvwd4e,Tier 1,120,Read or Not,read-or-not,67512,67503,4,4,7.323054,4,4,0
+2025-05-06 20:00:00.000,pixelchat-qkanbvwd4e,US,120,Read or Not,read-or-not,67512,67503,8,8,13.705031,7,7,0
+2025-05-06 21:00:00.000,chai-uddtkp7zb1,US,143,Read or Not,read-or-not,67512,67503,4279,4279,4279.0,4274,4259,55
+2025-05-06 21:00:00.000,deepai-yjdgkyt51l,US,128,Read or Not,read-or-not,67512,67503,600,600,1005.885132,485,465,2
+2025-05-06 21:00:00.000,pixelchat-qkanbvwd4e,Tier 1,120,Read or Not,read-or-not,67512,67503,6,6,11.317758,6,6,0
+2025-05-06 21:00:00.000,pixelchat-qkanbvwd4e,US,120,Read or Not,read-or-not,67512,67503,2,2,2.679694,2,2,0
+2025-05-06 22:00:00.000,chai-uddtkp7zb1,US,143,Read or Not,read-or-not,67512,67503,3315,3315,3315.0,3312,3306,45
+2025-05-06 22:00:00.000,deepai-yjdgkyt51l,US,128,Read or Not,read-or-not,67512,67503,396,396,666.673469,300,291,3
+2025-05-06 22:00:00.000,pixelchat-qkanbvwd4e,Tier 1,120,Read or Not,read-or-not,67512,67503,4,4,6.657996,4,4,0
+2025-05-06 22:00:00.000,pixelchat-qkanbvwd4e,US,120,Read or Not,read-or-not,67512,67503,2,2,3.458354,2,2,0
+2025-05-07 06:00:00.000,chai-uddtkp7zb1,US,143,Read or Not,read-or-not,67512,67503,3457,3457,3457.0,3452,3443,54
+2025-05-07 06:00:00.000,deepai-yjdgkyt51l,US,128,Read or Not,read-or-not,67512,67503,417,417,674.836675,329,306,4
+2025-05-07 06:00:00.000,pixelchat-qkanbvwd4e,Tier 1,120,Read or Not,read-or-not,67512,67503,1,1,2.56702,1,1,0
+2025-05-07 06:00:00.000,pixelchat-qkanbvwd4e,US,120,Read or Not,read-or-not,67512,67503,12,12,24.77724,10,10,0
+2025-05-07 07:00:00.000,chai-uddtkp7zb1,US,143,Read or Not,read-or-not,67512,67503,3636,3636,3636.0,3631,3628,50
+2025-05-07 07:00:00.000,deepai-yjdgkyt51l,US,128,Read or Not,read-or-not,67512,67503,220,220,355.836829,170,162,1
+2025-05-07 07:00:00.000,pixelchat-qkanbvwd4e,Tier 1,120,Read or Not,read-or-not,67512,67503,2,2,4.770956,2,2,0
+2025-05-07 07:00:00.000,pixelchat-qkanbvwd4e,US,120,Read or Not,read-or-not,67512,67503,3,3,6.31928,2,2,0
