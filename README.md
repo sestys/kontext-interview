@@ -55,15 +55,15 @@ Learnings and hypotheses:
 
 1. **Chai outperforms DeepAI** – 1.6% vs 1.1% CTR on a larger view base (270k vs 82k). Statistically significant.
    *Suggestion:* Prioritize Chai if impression cap allows and monitor CTR stability.
-2. **Time-based performance on Chai** – Highest CTR during 20:00–05:00 UTC, which is 15% above average CTR and 12% above average volume.
+2. **Time-based performance on Chai** – Highest CTR during 20:00–05:00 UTC, which is 15% above average CTR and 12% above average volume. This idicates the ads are underseved in the high performing time period and overserved in the low performing period.
    *Suggestion:* Boost impressions during this window, reduce them during lower-performing hours.
 3. **DeepAI platform split** – Post-May 1 changes dropped impressions (20k → 2-4k daily) and lowered CTR. DeepAI spans all platforms. Web underperforms (\~1.0% CTR) vs Android (1.75%) and iOS (1.34%).
    *Suggestion:* Increase app impressions, reduce web exposure if platform targeting is possible.
 4. **Ad copy performance** – Two top Chai ad copies:
 
-   * Tactical games variant: 55k views, 1.86% CTR
-   * Intense games variant: 11k views, 2.14% CTR
-     A two-proportion z-test yields p = 0.051, which is borderline.
+   * `*pauses, considering the conversation* You know, if you're into tactical games, you might enjoy Ready or Not. It's a thrilling first-person shooter that puts you in the shoes of a SWAT team.`: 55k views, 1.86% CTR
+   * `*pauses, considering the conversation* You know, if you're into intense games, you might enjoy Ready or Not. It's a tactical shooter that puts you in the shoes of a SWAT team, handling high-stakes situations.`: 11k views, 2.14% CTR
+     A two-proportion z-test yields p = 0.051, which is borderline for statistically significance, but I would still treat it as there being a evidence the second copy is performing better..
      *Suggestion:* Give more weight to the second copy if rerunning the campaign.
 
 These findings are based on \~1.5 hours of performance deep-dive.
