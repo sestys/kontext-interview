@@ -80,8 +80,8 @@ That's great news! We're glad you were happy with the first run and excited to r
 
 To drive even stronger engagement this time, based on past performance, we recommend:
 
-• **Platform split on DeepAI** – Prioritize Android and iOS (higher CTRs) and limit web to under 10%.
-• **Day-parting on Chai** – Concentrate impressions between 20:00–05:00 UTC (US afternoon/evening), which saw strong CTRs even at high volume.
+* **Platform split on DeepAI** – Prioritize Android and iOS (higher CTRs) and limit web to under 10%.
+* **Day-parting on Chai** – Concentrate impressions between 20:00–05:00 UTC (US afternoon/evening), which saw strong CTRs even at high volume.
 
 These improvements will be active from day one. We'll monitor the campaign continuously and implement further optimizations as needed to exceed the first campaign’s performance.
 
